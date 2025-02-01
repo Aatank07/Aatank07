@@ -1,6 +1,6 @@
 # <div align="center">👨‍💻 **ROHIT PATHAK** 👨‍💻</div>
 
-## <div align="center"> Cloud Infrastructure Engineer at Sopra BANking Software </div>
+## <div align="center"> Cloud Infrastructure Engineer at Sopra Banking Software </div>
 
 <div align="center">
 
