@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 **PARVESH NEGI** 👨‍💻</div>
+# <div align="center">👨‍💻 **ROHIT PATHAK** 👨‍💻</div>
 
 ## <div align="center"> Cloud Infrastructure Engineer at Sopra Bnaking Software </div>
 
