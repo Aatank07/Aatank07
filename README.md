@@ -59,6 +59,6 @@ I'm passionate about staying up-to-date with the latest trends in cloud computin
 
 👔 LinkedIn: 
 
-📧 Email:
+📧 Email: 
 
 Feel free to reach out if you want to discuss cloud infrastructure, DevOps practices in banking software, or potential collaborations!
