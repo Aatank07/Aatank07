@@ -1,6 +1,6 @@
 # <div align="center">👨‍💻 **ROHIT PATHAK** 👨‍💻</div>
 
-## <div align="center"> Cloud Infrastructure Engineer at Sopra Bnaking Software </div>
+## <div align="center"> Cloud Infrastructure Engineer at Sopra BANking Software </div>
 
 <div align="center">
 
@@ -13,13 +13,12 @@ Hi there! 👋 I'm Rohit, an experienced Cloud Infrastructure Engineer currently
 
 ### 🏢 
 
-**Infrastructure Engineer** at **Sopra Banking Software  (Sep'2021 - Dec'2024)**
+**Cloud Infrastructure Engineer** at **Sopra Banking Software  (Sep'2021 - Present)**
 - Designing and implementing cloud-based infrastructure for banking software
 - Optimizing DevOps processes to enhance software delivery and reliability
 - Collaborating with global teams to support innovative financial technology solutions
 
-** **Cloud Infrastructure Engineer** at **SITA ( Jan'2025 - Present )**
-  Azure, Vmware
+
 
 ### 🛠 Skills
 
