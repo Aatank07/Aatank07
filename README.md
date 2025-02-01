@@ -49,16 +49,16 @@ As an Infrastructure Engineer at Sopra Banking Software, I focus on:
 
 Professional certifications :
 
-- Aws Solution Architect Associate : https://www.credly.com/badges/68c3531e-1b2b-4a61-9330-42b410fa6308/public_url
-- Terraform Associate : https://www.credly.com/badges/8ac2dc32-9d2c-48d1-8594-a83f5b4b8003/public_url
+- Aws Solution Architect Associate : https://www.credly.com/badges/db9c4d49-e67e-46f9-ba3f-d572327edf76/public_url
+- Terraform Associate : https://www.credly.com/badges/89aa03f6-df9f-4ed4-adae-109ef9bf4478/public_url
 ### 🌱 Always Learning
 
 I'm passionate about staying up-to-date with the latest trends in cloud computing and DevOps, especially as they apply to the financial sector. Currently exploring Kubernetes.
 
 ### 📫 Let's Connect
 
-👔 LinkedIn: 
+👔 LinkedIn: https://www.linkedin.com/in/rohit-pathak-180462215/
 
-📧 Email: 
+📧 Email: rrohit.ppathak1998@gmail.com
 
 Feel free to reach out if you want to discuss cloud infrastructure, DevOps practices in banking software, or potential collaborations!
